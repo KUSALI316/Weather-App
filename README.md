@@ -2,7 +2,7 @@
 
 A sleek and responsive React-based weather application that fetches real-time weather data using the OpenWeatherMap API. Just type in a city name and get the latest weather stats, icons, and more – all wrapped in a modern UI.
 
-![Weather App Screenshot](./Assets/screenshot.png) 
+![Weather App Screenshot](./Assets/Screenshot.png) 
 
 ---
 
